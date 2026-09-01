@@ -1,4 +1,4 @@
-# Ditulis ulang oleh PerfGuard tiap kali profiling mesin
+# Ditulis ulang oleh PerfGuard tiap kali profiling mesin (lihat config.example.json)
 config.json
 
 # Log runtime: berisi nama proses, judul jendela, dan statistik mesin lokal
